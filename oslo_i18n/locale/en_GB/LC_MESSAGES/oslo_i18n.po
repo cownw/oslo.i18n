@@ -1,0 +1,4 @@
+
+msgid ""
+msgstr ""
+"Project-Id-Version: oslo.i18n VERSION\n"
